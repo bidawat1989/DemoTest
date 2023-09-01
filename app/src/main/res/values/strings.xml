@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoTest</string>
+
+    <string name="imagesList">Images List</string>
+    <string name="detail">Detail</string>
+    <string name="app_no_internet_msg">Internet connection is required!</string>
+
+</resources>
